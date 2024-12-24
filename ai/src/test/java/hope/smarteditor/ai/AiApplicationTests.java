@@ -9,6 +9,7 @@ class AiApplicationTests {
     @Test
     void contextLoads() {
 后即可兑换法国人gjk、eeekkk
+    so shhahahj
     }
 
 }
